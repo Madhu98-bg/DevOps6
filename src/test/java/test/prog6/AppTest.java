@@ -16,7 +16,7 @@ public class AppTest
      *
      * @param testName name of the test case
      */
-	private App app;
+	private App app; 
 	
     public AppTest( String testName )
     {
